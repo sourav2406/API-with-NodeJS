@@ -1,0 +1,25 @@
+{
+  "name": "rest-api-with-nodejs",
+  "version": "1.0.0",
+  "description": "REST API implementation with Nodejs and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav2406/API-with-NodeJS.git"
+  },
+  "author": "Sourav Mandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav2406/API-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/sourav2406/API-with-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
